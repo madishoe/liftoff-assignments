@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Uploaded
+[CALnected Wireframe] (https://github.com/madishoe/liftoff-assignments/blob/master/P3-Project_Planning/CALnected%20Wireframe%20PDF.pdf)
 
 ### Project Tracker
 
