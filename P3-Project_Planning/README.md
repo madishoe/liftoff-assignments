@@ -8,12 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-https://github.com/madishoe/liftoff-assignments/blob/master/P3-Project_Planning/CALnected%20Wireframe%20PDF.pdf
+[CALnected Wireframes](https://github.com/madishoe/liftoff-assignments/blob/master/P3-Project_Planning/CALnected%20Wireframe%20PDF.pdf)
 
 ### Project Tracker
 
-https://trello.com/b/b7dzaNmv/liftoff-assignment
+[Trello Project Tracker](https://trello.com/b/b7dzaNmv/liftoff-assignment)
 
 ### Project Repo Link
 
-https://github.com/madishoe/CALnected
+[CALnected Project Repp](https://github.com/madishoe/calnected)
